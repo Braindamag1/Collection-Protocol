@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Array,ArraySlice,Collection.playground/Sequence &amp; Iterator.playground/Sorted Array.playground">
+   </FileRef>
+   <FileRef
       location = "group:Array,ArraySlice,Collection.playground/Sequence &amp; Iterator.playground">
    </FileRef>
    <FileRef
